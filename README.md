@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, I am Busra 👋
 
-### I am Busra 👋
 
 I’m currently working on computational biology 💻🧪  
 
