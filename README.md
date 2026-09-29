@@ -4,6 +4,7 @@
 
 I’m currently working on computational biology 💻🧪  
 You can learn more about my work here: https://midst.sabanciuniv.edu/index.html
+
 Here's me personal website: https://btayhan.github.io/
 
 ---
